@@ -761,3 +761,13 @@ a{
         display: block;
     }
 }
+
+.github-link {
+    display:block; 
+    margin-top:7px; 
+    color: rgb(117, 117, 223);
+}
+
+.github-link:hover {
+    color : blue;
+}
